@@ -1,0 +1,25 @@
+# Visual Studio local settings and caches
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+
+# Build output directories
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ww]in32/
+
+# Compiled binaries and intermediate files
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.idb
+*.ilk
+*.tlog
+*.log
+*.recipe
+*.enc
